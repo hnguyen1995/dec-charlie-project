@@ -1,0 +1,50 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar styles */
+.navbar {
+  margin-bottom: 40px;
+}
+
+/* Card styles */
+.card {
+  border: 2px solid #ddd;
+  border-radius: 10px;
+}
+
+.card-img-top {
+  max-height: 200px;
+  object-fit: cover;
+}
+
+/* Footer styles */
+footer {
+  background-color: #343a40;
+  color: #fff;
+}
+
+/* Button styles */
+.btn {
+  margin: 5px;
+}
+
+/* Container and general page styling */
+.container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333333;
+}
+
+p {
+  color: #555555;
+}
